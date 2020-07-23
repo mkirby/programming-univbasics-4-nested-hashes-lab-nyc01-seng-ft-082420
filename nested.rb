@@ -40,7 +40,7 @@ def alan_kay_is_known_for
 end
 
 def dennis_ritchies_language
-	programmer_hash = 
+	programmer_hashes = 
  		{
       :grace_hopper => {
         :known_for => "COBOL",
